@@ -1,0 +1,43 @@
+.Image{
+    width: 100%;
+    height: 200px;
+    background-color: aqua;
+}
+.img{
+    width: 100%;
+    height: 200px;
+}
+.Menu{
+    height: 100px;
+    width: 100%;
+    background-color: red;
+    color: lightpink;
+    font-size: 15px;
+}
+.Two{
+    height: 400px;
+    width: 100%;
+    background-color: yellow;
+    display: flex;
+    flex: row;
+}
+.Slide_ber{
+    height: 400px;
+    width: 50%;
+    background-color: pink;
+}
+.Content{
+    height: 400px;
+    width: 50%;
+    background-color: rgb(124, 11, 29);
+}
+.Footer{
+    height: 100px;
+    width: 100% ;
+    background-color: green;
+    text-align: center;
+}
+p{
+    padding-top: 100px;
+    text-align: center;
+}

@@ -1,0 +1,86 @@
+  .navbar {
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+  }  
+  .icon {
+    width: 200px;
+    float: left;
+    height: 70px;
+  }  
+  .logo {
+    color: #ff7200;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
+    margin-top: 5px;
+  } 
+  .menu {
+    width: 400px;
+    float: left;
+    height: 70px;
+  } 
+  ul {
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } 
+  ul li {
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+  } 
+  ul li a {
+    text-decoration: none;
+    color: #ff7200;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+  } 
+  ul li a:hover {
+    color: #ff7200;
+  } 
+  .content {
+    width: 1200px;
+    height: 250px;
+    margin: 25px;
+    color: #fff;
+    position: relative;
+  } 
+  .content h1 {
+    font-family: "Times New Roman";
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 9%;
+    letter-spacing: 2px;
+  }
+  .content span {
+    color:black;
+    font-size: 65px;
+  }
+  .fooder
+{
+	width: 100%;
+    height: 55px;
+    text-align:center;
+    border-color: white;
+    display: flex;
+    flex: row;
+    
+}
+.fooder_1
+{
+	width: 100px;
+	padding-top: 3px;
+}
+
+.footer_img
+{
+    width: 50px;
+    height: 50px;
+   	border-radius: 50%;
+}
